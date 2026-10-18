@@ -1,5 +1,16 @@
 # Instaprenyua masterclass package
 
+## Digital marketing masterclass
+
+**Attract the Right Customers Online, Drive More Sales, and Keep Them Coming Back**
+
+An eight-slide, speaker-led presentation for Tanzanian entrepreneurs using Instagram and WhatsApp. Covers organic discovery, low-cost Meta advertising, conversion, repeat business and referrals, with an illustrative TZS 35,000 advertising example.
+
+- [Download the editable PowerPoint](instaprenyua/Instaprenyua_Masterclass.pptx)
+- [View the PDF](instaprenyua/Instaprenyua_Masterclass.pdf)
+
+The PowerPoint includes speaker notes and editable tables. Refrigerator images were not supplied, so the practical example uses a text comparison.
+
 ## Same Products, Different Sellers. Why Should Customers Choose You?
 
 *A practical self-reflection to uncover what your customers truly value—and how to build a business they trust and recommend.*
