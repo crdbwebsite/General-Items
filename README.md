@@ -1,5 +1,15 @@
 # Instaprenyua masterclass package
 
+## CRDB-style keynote — review draft
+
+An eight-slide visual version of **Attract the Right Customers Online, Drive More Sales, and Keep Them Coming Back**, with editable diagrams, conceptual Instagram/WhatsApp mockups, illustrative financial scenarios and speaker notes.
+
+- [Download the editable PowerPoint](instaprenyua/Instaprenyua_CRDB_Keynote.pptx)
+- [View the PDF preview](instaprenyua/Instaprenyua_CRDB_Keynote.pdf)
+- [View the slide montage](instaprenyua/Instaprenyua_CRDB_Montage.png)
+
+**Review draft:** The two required refrigerator photographs and official CRDB logo are not included. Labelled placeholders remain. The green palette follows the supplied brief and has not been checked against an official brand guide. Mockups and financial figures are illustrative. Native Apple Keynote export and testing in Keynote were unavailable.
+
 ## Digital marketing masterclass
 
 **Attract the Right Customers Online, Drive More Sales, and Keep Them Coming Back**
